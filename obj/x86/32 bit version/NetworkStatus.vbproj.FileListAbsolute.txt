@@ -1,0 +1,13 @@
+F:\VB\NetworkStatus\NetworkStatus\bin\x86\32 bit version\NetworkStatus.exe.config
+F:\VB\NetworkStatus\NetworkStatus\bin\x86\32 bit version\NetworkStatus.exe
+F:\VB\NetworkStatus\NetworkStatus\bin\x86\32 bit version\NetworkStatus.pdb
+F:\VB\NetworkStatus\NetworkStatus\bin\x86\32 bit version\NetworkStatus.xml
+F:\VB\NetworkStatus\NetworkStatus\obj\x86\32 bit version\NetworkStatus.vbprojAssemblyReference.cache
+F:\VB\NetworkStatus\NetworkStatus\obj\x86\32 bit version\NetworkStatus.NetworkStatus.resources
+F:\VB\NetworkStatus\NetworkStatus\obj\x86\32 bit version\NetworkStatus.Resources.resources
+F:\VB\NetworkStatus\NetworkStatus\obj\x86\32 bit version\NetworkStatus.vbproj.GenerateResource.cache
+F:\VB\NetworkStatus\NetworkStatus\obj\x86\32 bit version\NetworkStatus.vbproj.CoreCompileInputs.cache
+F:\VB\NetworkStatus\NetworkStatus\obj\x86\32 bit version\NetworkStatus.exe
+F:\VB\NetworkStatus\NetworkStatus\obj\x86\32 bit version\NetworkStatus.xml
+F:\VB\NetworkStatus\NetworkStatus\obj\x86\32 bit version\NetworkStatus.pdb
+F:\VB\NetworkStatus\NetworkStatus\obj\x86\32 bit version\NetworkStatus.Help.resources
